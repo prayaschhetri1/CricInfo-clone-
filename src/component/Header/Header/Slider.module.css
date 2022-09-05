@@ -1,0 +1,56 @@
+.maincontainer{
+    /* border:1px solid black; */
+    padding-left: 2rem;
+    padding-right: 2rem;
+    background-color:#0398DC;
+    /* width: 99%; */
+    margin: auto;
+  
+ 
+ 
+}
+
+
+.container{
+    /* border:1px solid red;  */
+    /* height: 146px; */
+    width: 320px;
+    border-radius: 10px;
+    background-color: white;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+    
+}
+
+.container div{
+    height:25px; 
+    margin-bottom:5px;
+    padding-left:0.25rem;
+    padding-right: 0.25rem;
+
+}
+.result{
+    font-weight: 500;
+}
+
+.resultdiv{
+    font-weight: 400;
+}
+
+
+.teams{
+    /* border:1px solid rgb(8, 8, 8); */
+    display: flex;
+    justify-content: space-between;
+    font-weight: 600;
+
+}
+
+.schedulereport{
+    /* border:1px solid blue; */
+    display: flex;
+    gap: 1rem;
+    font-weight: 500;
+    
+}
